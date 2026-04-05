@@ -44,9 +44,8 @@ d. Win32_LogicalDisk class: https://learn.microsoft.com/en-us/windows/win32/cimw
 
 === LICENSING ===
 
-a. GPLv3: Public use and modification without restrictions.  
-b. MIT License: opensource.org/license/mit  
-
+a. GPLv3: Public use and modification without restrictions:
+https://mit-license.org/
 
 === DISCLAIMER ===
 
