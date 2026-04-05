@@ -8,6 +8,7 @@ What is PDisk?
 It is a console application written in Python, based on disk management. Its different applications are displayed in an options menu, which has the following features:
 
 (1) In the information section, it is capable of:
+
 a. Listing information about Physical Disks.  
 b. Listing information about Partitions.  
 c. Listing information about Volumes.  
@@ -52,3 +53,9 @@ https://mit-license.org/
 This application is provided "as is," without express or implied warranties.  
 The author is not responsible for damages, data loss, or misuse of the software.  
 Use of the application is at your own risk and responsibility.
+
+
+=== DOWNLOAD ===
+
+You can download the latest release here:  
+[➡️ PDisk v1.0 Release](https://github.com/Charlie-SC/PDisk/releases/tag/v1.0)
